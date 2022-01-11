@@ -1,0 +1,5 @@
+favorite_movie : Zero_2,
+favorite_TV_series : Friends,
+favorite_food : draniki,
+favorite_season : spring, 
+I_want_visit : Japan
