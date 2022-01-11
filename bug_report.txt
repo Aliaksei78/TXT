@@ -1,1 +1,18 @@
+Structure_of_Bug Report:
 
+ID,
+Summary,
+Description: 
+            Reprodused_on,
+            Requirement,
+            Actual_Result,
+            Expected_Result
+Steps to reproduce,
+Severity,
+Priority,
+Reproducibility,
+Symptom,
+Workaround,
+Comments,
+Attachments,
+Status
