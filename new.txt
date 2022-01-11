@@ -1,0 +1,5 @@
+name : Alexei,
+surname : Revenko,
+patronymic : Konstantinovich,
+pets : 0,
+wished_salary : 25000
